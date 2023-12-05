@@ -1,0 +1,36 @@
+@media(max-width:415px){
+body{
+     background-color: rgb(252, 219, 128);
+}
+.container{
+        background-color: transparent;
+        text-align: center;
+        margin-top: 50%;
+        font-family: sans-serif;
+    
+}
+#sim{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color: rgb(255, 122, 66);
+    border-radius: 10px;
+    color: white;
+    margin-top:60%;
+    margin-left: 15%;
+}
+
+#nao{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color: rgb(255, 122, 66);
+    border-radius: 10px;
+    color: white;
+    margin-left: 45%;
+    margin-top: 60%;
+}
+#image{
+    width: 300px;
+}
+}    
